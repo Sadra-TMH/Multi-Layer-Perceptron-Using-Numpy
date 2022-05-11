@@ -1,14 +1,6 @@
 import numpy as np
-import pandas as pd
 import matplotlib.pyplot as plt
-from sklearn.metrics import accuracy_score
-from sklearn.preprocessing import LabelBinarizer
-import h5py
-from scipy import ndimage
-import scipy
-from PIL import Image
 import copy
-import time
 import math
 import pickle
 
